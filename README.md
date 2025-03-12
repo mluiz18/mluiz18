@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm Miguel, a student of engineering software. Technology Enthusiast. I'm Learning python and java.
+I'm Miguel, a student of engineering software and technology enthusiast. Now i'm Learning python and java.
 
 ## Tech and Tools
 <div style="display: inline_block"><br>
